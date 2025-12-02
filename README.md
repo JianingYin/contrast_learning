@@ -1,10 +1,7 @@
-<div align="center">
 # 基于对比学习的阿尔茨海默病分类模型
 
-[中文版](https://github.com/JianingYin/contrast_learning/blob/master/README.md) 
-[English Version](https://github.com/JianingYin/contrast_learning/blob/master/README.en.md)
+[中文版](https://github.com/JianingYin/contrast_learning/blob/master/README.md) | [English Version](https://github.com/JianingYin/contrast_learning/blob/master/README.en.md)
 
-</div>
 
 ## 项目概述
 
