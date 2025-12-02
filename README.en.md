@@ -1,5 +1,7 @@
 # Contrastive Learning-Based Alzheimer's Disease Classification Model
 
+[English Version](https://github.com/JianingYin/contrast_learning/blob/master/README.en.md) | [中文版](https://github.com/JianingYin/contrast_learning/blob/master/README.md)
+
 ## Project Overview
 
 This project implements a deep learning and contrastive learning-based framework for Alzheimer's Disease (AD) classification. By fusing whole-brain and hippocampal MRI data with wavelet transform and supervised contrastive learning methods, the model achieves high-accuracy multi-class diagnosis (AD, MCI, CN).

@@ -1,5 +1,7 @@
 # 基于对比学习的阿尔茨海默病分类模型
 
+[English Version](https://github.com/JianingYin/contrast_learning/blob/master/README.en.md) | [中文版](https://github.com/JianingYin/contrast_learning/blob/master/README.md)
+
 ## 项目概述
 
 本项目实现了一个基于深度学习和对比学习的阿尔茨海默病(AD)分类框架，通过融合全脑和海马体MRI数据，结合小波变换和监督对比学习方法，实现高精度的多分类诊断（AD、MCI、CN）。
